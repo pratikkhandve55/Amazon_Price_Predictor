@@ -1,0 +1,12 @@
+{
+  "Computers&Accessories|Accessories&Peripherals|Cables&Accessories": {
+    "file": "models/usb_cables.cbm",
+    "r2": 0.849,
+    "confidence": 0.85
+  },
+  "Electronics|WearableTechnology|SmartWatches": {
+    "file": "models/smartwatches.cbm",
+    "r2": 0.507,
+    "confidence": 0.51
+  }
+}
